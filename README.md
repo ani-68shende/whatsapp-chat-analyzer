@@ -54,5 +54,10 @@ Implementation
 
 <img width="1440" alt="Screenshot 2022-07-14 at 6 54 29 PM" src="https://user-images.githubusercontent.com/80747469/178993427-196fcebe-0770-442e-9108-efee8faa4b48.png">
 
-![Uploading Screenshot 2022-07-14 at 6.54.2<img width="1440" alt="Screenshot 2022-07-14 at 6 54 09 PM" src="https://user-images.githubusercontent.com/80747469/178993444-b864a07d-f3c3-4ee1-a025-d07abaec6b7f.png">
-4 PM.png…]()
+<img width="1440" alt="Screenshot 2022-07-14 at 6 54 24 PM" src="https://user-images.githubusercontent.com/80747469/178993744-2f51b979-cac5-4077-8ec6-27a9aa077836.png">
+
+<img width="1440" alt="Screenshot 2022-07-14 at 6 54 18 PM" src="https://user-images.githubusercontent.com/80747469/178993761-83f982d5-92db-47ba-b593-d04c012e785f.png">
+
+<img width="1440" alt="Screenshot 2022-07-14 at 6 54 09 PM" src="https://user-images.githubusercontent.com/80747469/178993781-256d317c-37ea-48bc-818e-5569f271391e.png">
+
+<img width="1440" alt="Screenshot 2022-07-14 at 6 54 04 PM" src="https://user-images.githubusercontent.com/80747469/178993792-4a37bb50-a20d-48f9-86fe-0fd284dfafcc.png">
