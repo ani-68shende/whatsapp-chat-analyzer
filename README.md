@@ -1,7 +1,7 @@
 # Whatsapp-chat-analyzer
 I have made an End to End Streamlit project. Its a web app for whatsapp chat analysis.
 
-All the datils of the code and project has been mentioned in my medium blog so do give it a check
+All the details of the code and project has been mentioned in my medium blog so do give it a check
 
 
 To get started 
