@@ -44,8 +44,15 @@ streamlit run app.py
 ```
 Implementation
 
-Whatsapp Chat Analyzer 
+<img width="1440" alt="Screenshot 2022-07-14 at 6 53 11 PM" src="https://user-images.githubusercontent.com/80747469/178993339-9bba1d7a-fd65-4246-98fc-8e5453be0bdd.png">
 
-![image](https://user-images.githubusercontent.com/65888520/145710257-9fcc1ff2-afa4-4870-866f-7a0a611cd937.png)
-![image](https://user-images.githubusercontent.com/65888520/145710273-8138f53d-7f7b-4a44-a704-e660aa77f9e7.png)
-![image](https://user-images.githubusercontent.com/65888520/145710275-f173cd3b-019c-43ed-adad-e896735dba2a.png)
+<img width="1440" alt="Screenshot 2022-07-14 at 6 54 48 PM" src="https://user-images.githubusercontent.com/80747469/178993387-de4d21e1-db24-41a5-890a-c5ef1083a5a4.png">
+
+<img width="1440" alt="Screenshot 2022-07-14 at 6 54 43 PM" src="https://user-images.githubusercontent.com/80747469/178993398-11c7e414-d357-4dc7-9d53-6a6aafbe532a.png">
+
+<img width="1440" alt="Screenshot 2022-07-14 at 6 54 39 PM" src="https://user-images.githubusercontent.com/80747469/178993416-726f8441-0738-402a-972e-9182552acf74.png">
+
+<img width="1440" alt="Screenshot 2022-07-14 at 6 54 29 PM" src="https://user-images.githubusercontent.com/80747469/178993427-196fcebe-0770-442e-9108-efee8faa4b48.png">
+
+![Uploading Screenshot 2022-07-14 at 6.54.2<img width="1440" alt="Screenshot 2022-07-14 at 6 54 09 PM" src="https://user-images.githubusercontent.com/80747469/178993444-b864a07d-f3c3-4ee1-a025-d07abaec6b7f.png">
+4 PM.png…]()
